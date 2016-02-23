@@ -1,0 +1,175 @@
+body{
+	background-color: grey;
+}
+.container{
+	background-color: white;
+}
+.fondo{
+	background-color: #2E2E2E;
+	width: 100%;
+	height: 100px;
+	padding: 20px;
+}
+.menu{
+	background-color:#2E2E2E ;
+	padding: 15px 20px;
+}
+.titulo{
+	color:#A4A4A4;
+	display: inline-block;
+	font-size: 32px;
+}
+h1{
+	color: white;
+	display: inline-block;
+	font-family: bold;
+	margin-left: 5px;
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+	margin:15px 20px;
+	padding-left: 30px;
+	color:#A4A4A4;
+}
+.home{
+	color:#DF0174;
+}
+*/aqui termina el header
+section{
+	background: blue;
+	width: 100%;
+	height: 100%;
+}
+h3{
+	text-align: center;
+	font-size: 24px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:#A4A4A4;
+}
+.art{
+	padding-bottom: 20px;
+	color:#A4A4A4;
+}
+.iconos{
+	background-image: url(../fonts/ElegantIcons.eot);
+}
+.buttom{
+	width: 100px;
+	height: 30px;
+	background:grey;
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+.last{
+	text-align: left;
+}
+.menudos{
+	text-align: left;
+	margin: -10px important;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	color:#A4A4A4;
+}
+.boton{
+	width: 150px;
+	height: 30px;
+	background:grey;
+	border-radius: 20px;
+	text-align: center;
+	padding: 5px;
+	color: white;
+	margin:40px 470px;
+}
+h5{
+	color:#A4A4A4;
+	display: inline-block;
+}
+p{
+	color:#A4A4A4;
+}
+.vistos{
+	display: inline-block;
+}
+.twitter{
+	margin: 20px;
+}
+.pajaro{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.pagina{
+	font-size: 20px;
+	color:#DF0174;
+}
+.boton2{
+	width: 100px;
+	height: 30px;
+	background: grey;
+	margin-bottom: 30px;
+	text-align: center;
+	color:white;
+	padding: 5px 0px;
+	border-radius: 5px;
+}
+.sub5{
+	color:#A4A4A4;
+	display: inline-block;
+	margin-right: 230px;
+}
+*/termina section
+.background{
+	background-color: #2E2E2E;
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.pie{
+	margin: 5px 10px;
+}
+.twet{
+	display: inline-block;
+}
+.parrafo{
+	margin-bottom: 40px;
+}
+.titupie{
+	color:white;
+	font-size: 16px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.artpie{
+	color:#D8D8D8;
+	margin-top: 10px;
+}
+.boton3{
+	display: inline-block;
+	width: 70px;
+	height: 17px;
+	color:white;
+	background: #DF0174;
+	border-radius: 5px;
+	font-size: 14px;
+	margin:0px 30px;
+	text-align: center;
+}
+.boton4{
+	width: 200px;
+	height: 40px;
+	color:white;
+	background: black;
+	border-radius: 5px;
+	padding: 10px 5px;
+}
+.send{
+	display: inline-block;
+	margin:0px 38px;
+}
+span{
+	display: inline-block;
+	margin:8px;
+}
